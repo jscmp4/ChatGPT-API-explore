@@ -1,5 +1,5 @@
-# ChatGPT-TTS-API
+# ChatGPT-API
 
-a simple test for chatgpt TTS api
+a simple test for all the chatgpt api
 
 used in google colab
